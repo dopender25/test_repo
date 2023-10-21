@@ -1,19 +1,6 @@
 // Q 4 List operations and decoding
 
-# include<iostream>
-using namespace std;
- int main(){
- 	int L1[]={11,21,24,12,18};
- 	int L2[]={14,44,25,37,13};
- 	int L3[10];
- 	int index = 1;
- 	
- 	for(int i=0;i<5;i++){
- 		if(i%2==0){
- 			L3[index] = L1[i];
- 			index++;
-		 }
-	 }
+
 	
 	for(int i=0;i<5;i++){
  		if(i%2==1){
